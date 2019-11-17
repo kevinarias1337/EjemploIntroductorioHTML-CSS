@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(27, 26, 26);
+}
+
+h1{
+    color: whitesmoke;
+}
+
+img#imagen1{
+    width: 300px;
+}
+
+img#imagen2{
+    width: 400px;
+}
